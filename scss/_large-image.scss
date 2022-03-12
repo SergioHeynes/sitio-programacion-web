@@ -1,0 +1,12 @@
+.large-image {
+    .large-image__container {
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+        margin-bottom: 20px;
+        img {
+            width: 100%;
+        }
+    }
+    
+}

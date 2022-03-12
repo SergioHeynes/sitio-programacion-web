@@ -1,0 +1,22 @@
+header {
+    .header-img {
+        position: relative;
+        img {
+            width: 100%;
+        }
+        .header-img-text {
+            position: absolute;
+            top: 25%;
+            left: 10%;
+            right: 10%;
+            width: 80%;
+            text-align: center;
+            padding: 0 20px;
+            background-color: rgba(250, 250, 250, 0.3)
+        }
+    }
+    .introduction {
+        padding: 20px;
+    }
+}
+
